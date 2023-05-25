@@ -30,3 +30,8 @@
 
 Определена область пикселов 400*400. Центр области всегда остается в центре окна при изменении его размера. Нажатием ЛКМ по области можно добавлять точки (вершины многоугольника). По вершинам строится граница многоугольника при помощи алгоритма Брезенхема. Нажатием ПКМ по любой точке внутри многоугольника можно запустить алгоритм заливки. Нажатием кнопки ‘f’ можно запустить алгоритм фильтрации для области, в которой находится многоугольник. Нажатием кнопки ‘с’ можно очистить область.
 
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/83fd9559-bfe0-44a5-bba6-23952c421e8b)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/f665c379-9bb3-4d20-b043-822cc6550e0f)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/e855f47c-5bcb-4d72-b360-fefffb5f882a)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/0f631aa7-d8b5-4f7e-8b59-1d62a6cd3e19)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/b46e5637-a3e4-40a7-8f56-c576b875a2b5)
