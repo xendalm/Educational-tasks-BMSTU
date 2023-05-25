@@ -14,3 +14,8 @@
 (модулирование коэффициента диффузного отражения);
 
 Определена правильная призма с наложенной текстурой и горизонтальная поверхность, два источника света. Реализована анимация равноускоренного падения при условии абсолютно упругого соударения. При помощи клавиш влево, вправо, вниз, вверх можно вращать призму, при помощи клавиш ‘w’, ’a’, ’s’, ’d’ можно изменять позицию взгляда. Клавиша ‘f’ сохраняет параметры сцены в файл, клавиша ‘l’ загружает сцену из файла.
+
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/3d1bd1f3-db6b-4e12-a1ae-b96bc03b7de8)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/5e07000c-2c4c-480b-a4ea-0bc9c84a05ba)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/00583450-5bb3-4146-9e6a-b29940039e28)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/7488e74c-b4a6-477e-b010-8a8d32a94f12)
