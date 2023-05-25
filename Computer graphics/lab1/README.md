@@ -4,6 +4,6 @@
 
 Реализован графический примитив с возможностями сдвига (кнопками вверх, вниз, вправо, влево), поворота (f4, f5, f6, f7), смена цвета (f1, f2, f3)
 
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/56193635-b039-4e97-a73b-5f2828464ad0)
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/27d16162-8421-45e6-a783-79169468b365)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/2b0fa203-ee7c-4ad3-90f0-9cf4c10f4f29)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/2450eb3c-82d8-409f-a9e5-85d72d9c0b0f)
 
