@@ -9,6 +9,5 @@
 
 Определены два куба, первый построен в горизонтальной косоугольной изомерии при помощи матрицы преобразования. Реализована возможность изменения длины спроецированного единичного вектора на ось Z и изменение угла горизонтального наклона (кнопками вверх, вниз, вправо, влево), возможность переключения между каркасным и твердотельным отображением (кнопка F1)
 
-
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/7462e01e-beac-44d3-9efa-b068fb038931)
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/fdefed5c-f8c6-4c96-81d1-2dde997c7b54)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/0a30f680-e0fa-4f70-985e-35f910e7b585)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/9eea62fc-1968-4b85-bc78-df17e658a416)
