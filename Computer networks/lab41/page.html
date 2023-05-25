@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <div><input type="text" id="url" value="vk.com" /></div>
+    <div>
+        <select id="action">
+            <option selected="selected" value="ping">ping</option>
+            <option value="tracert">tracert</option>
+        </select>
+        <button id="submit">Отправить</button>
+    </div>
+    <div id="container">
+    </div>
+
+    <script>
+        let socket = new WebSocket("ws:localhost:8080/ws")
+
+        socket.onopen = () => {
+            console.log("connected")
+        }
+
+        socket.onclose = (event) => {
+            console.log("closed:", event)
+        }
+
+        socket.onerror = (error) => {
+            console.log("error:", event)
+        }
+
+        socket.onmessage = (event) => {
+            let time = new Date()
+            console.log(time.toLocaleTimeString(), "received ans")
+            var container = document.getElementById("container")
+            container.innerText = event.data
+        }
+    </script>
+
+    <script>
+        let submitbutton = document.getElementById("submit")
+        submitbutton.onclick = function () {
+            console.log(document.getElementById("url").value + " " + document.getElementById("action").value)
+            socket.send(document.getElementById("url").value + " " + document.getElementById("action").value)
+        }
+    </script>
+</body>
+
+</html>
