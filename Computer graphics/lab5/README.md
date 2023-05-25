@@ -4,7 +4,7 @@
 
 Определена область пикселов 400*400. Центр области всегда остается в центре окна при изменении его размера. Нажатием ЛКМ по области можно добавлять точки (вершины многоугольника), нажатием ПКМ по области можно добавлять точки (вершины отсекателя). По вершинам строится границы отсекателя и отсекаемого многоугольника при помощи алгоритма Брезенхема. Нажатием кнопки ‘q’ можно запустить алгоритм Вейлера-Азертона для поиска пересечения, кнопки ‘w’ для поиска объединения, ‘e’ для поиска разности отсекаемого многоугольника и отсекателя, ‘r’ разности отсекателя и отсекаемого. Нажатием кнопки ‘с’ можно очистить область.
 
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/3e5cc689-8d7c-486e-be06-d7c873e30c7d)
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/c31cc322-1b60-4405-891b-c1491d434802)
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/fcc35d26-523e-4724-a4a7-b94e858dfd44)
-![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/c2419b2f-8275-4b59-a028-4ffaf833b1f4)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/1bd6991a-4fd5-4222-946c-1cdd0193e570)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/90e58321-bbc7-4503-849a-975c94285c47)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/fc51d705-b569-4b90-9004-7f6ee1852db9)
+![image](https://github.com/xendalm/Educational-tasks-BMSTU/assets/35781938/04e6c53e-49bb-4f96-845c-1b0da3681671)
